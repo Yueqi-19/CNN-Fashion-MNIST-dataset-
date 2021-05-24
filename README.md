@@ -1,1 +1,1 @@
-# CNN-Fashion-MNIST-dataset-
+# CNN-Fashion-MNIST-dataset
